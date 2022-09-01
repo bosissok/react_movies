@@ -1,1 +1,1 @@
-# react_movies
+Cette application web est une base de données permettant de rechercher des films avec la possibilité d'en ajouter dans l'onglet favoris.
